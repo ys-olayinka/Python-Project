@@ -38,9 +38,3 @@ This repo contains three main Python projects that demonstrate practical data en
 - Task Automation & Scheduling
 - Error Handling & Logging
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/data-engineering-portfolio.git
-   cd data-engineering-portfolio
